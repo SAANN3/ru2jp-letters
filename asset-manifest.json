@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ru2jp-letters/static/css/main.891555ee.css",
+    "main.js": "/ru2jp-letters/static/js/main.b299610b.js",
+    "index.html": "/ru2jp-letters/index.html",
+    "main.891555ee.css.map": "/ru2jp-letters/static/css/main.891555ee.css.map",
+    "main.b299610b.js.map": "/ru2jp-letters/static/js/main.b299610b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.891555ee.css",
+    "static/js/main.b299610b.js"
+  ]
+}
